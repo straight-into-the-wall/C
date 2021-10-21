@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['octal_5fto_5fhexadecimal_2ec_523',['octal_to_hexadecimal.c',['../d0/d8a/octal__to__hexadecimal_8c.html',1,'']]],
-  ['ode_5fforward_5feuler_2ec_524',['ode_forward_euler.c',['../d4/d07/ode__forward__euler_8c.html',1,'']]],
-  ['ode_5fmidpoint_5feuler_2ec_525',['ode_midpoint_euler.c',['../d1/dc2/ode__midpoint__euler_8c.html',1,'']]],
-  ['ode_5fsemi_5fimplicit_5feuler_2ec_526',['ode_semi_implicit_euler.c',['../d4/d99/ode__semi__implicit__euler_8c.html',1,'']]]
+  ['malloc_5fdbg_2ec_0',['malloc_dbg.c',['../db/d84/malloc__dbg_8c.html',1,'']]],
+  ['malloc_5fdbg_2eh_1',['malloc_dbg.h',['../d2/ddd/malloc__dbg_8h.html',1,'']]],
+  ['merge_5fsort_2ec_2',['merge_sort.c',['../d2/d83/merge__sort_8c.html',1,'']]],
+  ['min_5fprintf_2eh_3',['min_printf.h',['../d9/deb/min__printf_8h.html',1,'']]],
+  ['modified_5fbinary_5fsearch_2ec_4',['modified_binary_search.c',['../d3/d47/modified__binary__search_8c.html',1,'']]]
 ];

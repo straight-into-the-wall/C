@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['malloc_5fdbg_2ec_517',['malloc_dbg.c',['../db/d84/malloc__dbg_8c.html',1,'']]],
-  ['malloc_5fdbg_2eh_518',['malloc_dbg.h',['../d2/ddd/malloc__dbg_8h.html',1,'']]],
-  ['merge_5fsort_2ec_519',['merge_sort.c',['../d2/d83/merge__sort_8c.html',1,'']]],
-  ['modified_5fbinary_5fsearch_2ec_520',['modified_binary_search.c',['../d3/d47/modified__binary__search_8c.html',1,'']]]
+  ['k_5fmeans_5fclustering_2ec_0',['k_means_clustering.c',['../d6/d76/k__means__clustering_8c.html',1,'']]],
+  ['kohonen_5fsom_5ftopology_2ec_1',['kohonen_som_topology.c',['../d2/df6/kohonen__som__topology_8c.html',1,'']]],
+  ['kohonen_5fsom_5ftrace_2ec_2',['kohonen_som_trace.c',['../d0/d46/kohonen__som__trace_8c.html',1,'']]]
 ];
