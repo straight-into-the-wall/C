@@ -1,5 +1,5 @@
 <map id="testTwoSum" name="testTwoSum">
 <area shape="rect" id="node1" title="Self&#45;test implementations." alt="" coords="5,29,101,56"/>
 <area shape="rect" id="node2" href="$d6/dac/1_8c.html#a3ca011a91501e6dcd7f1cd6752eda646" title="Given an array of integers and an integer target, find the two numbers such that they add up to a giv..." alt="" coords="149,29,220,56"/>
-<area shape="rect" id="node3" href="$d6/dac/1_8c.html#a795db0ce8d594b75ff4ee7cd2a5e90e5" title="Prepare the output at the end of the execution." alt="" coords="268,29,331,56"/>
+<area shape="rect" id="node3" href="$d6/dac/1_8c.html#a795db0ce8d594b75ff4ee7cd2a5e90e5" title="for assert for unsigned int with fixed size for everithing else" alt="" coords="268,29,331,56"/>
 </map>

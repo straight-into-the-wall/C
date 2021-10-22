@@ -17,7 +17,7 @@ var searchData=
   ['test_5flamniscate_14',['test_lamniscate',['../d0/d46/kohonen__som__trace_8c.html#aa2246f940155472084ee461f3685d614',1,'kohonen_som_trace.c']]],
   ['test_5fsdbm_15',['test_sdbm',['../d7/d3b/group__hash.html#gab87679863646255178427a56dc33e453',1,'hash_sdbm.c']]],
   ['test_5fxor8_16',['test_xor8',['../d7/d3b/group__hash.html#ga39d4c16427acbf8bbe744f6d8ed61dc0',1,'hash_xor8.c']]],
-  ['testtwosum_17',['testTwoSum',['../d6/dac/1_8c.html#a9f1e312f80ec8c23beaf46d71baf1091',1,'1.c']]],
+  ['testtwosum_17',['testTwoSum',['../d6/dac/1_8c.html#aa71376d30d31ba8c02b253fb0c00aba2',1,'1.c']]],
   ['to_5fpolar_18',['to_polar',['../d6/d2e/cartesian__to__polar_8c.html#afb80d77f0c994240309ccddcc9525e70',1,'cartesian_to_polar.c']]],
   ['top_19',['Top',['../da/d96/infix__to__postfix2_8c.html#a2d1c13296ce9c42bb5dd7d834e2802bf',1,'infix_to_postfix2.c']]],
   ['twosum_20',['twoSum',['../d6/dac/1_8c.html#a3ca011a91501e6dcd7f1cd6752eda646',1,'1.c']]]
