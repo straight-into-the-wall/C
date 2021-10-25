@@ -123,8 +123,8 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d4/dbd/problem__23_2sol2_8c.html#a3ab61b5a1c4f2288625d160aa0ea8478",
-"d9/dcc/prim_8c.html#addac7a8c7bfd3e5573dad1f6aeff7768",
-"dd/d95/word__count_8h_source.html"
+"d9/dd7/struct__cantor__set.html#abd2176c3cc3a1d85d15bbeaace35fa03",
+"dd/de4/bubble__sort_8c.html#aa8989f6c9bfd1f040854fa18b180114f"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
