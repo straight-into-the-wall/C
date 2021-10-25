@@ -139,9 +139,9 @@ jobs:
 
           nodir_files = [file for file in cpp_files if file.count(os.sep) != 1]
           nodir_file_bad_files = len(nodir_files) - 1
-            print("\n".join(nodir_files) + "\n")
-            print(cpp_files)
-            print("\n".join(cpp_files) + "\n")
+          print("\n".join(nodir_files) + "\n")
+          print(cpp_files)
+          print("\n".join(cpp_files) + "\n")
           if nodir_file_bad_files:            
             print(f"{len(nodir_files)} files are not in one and only one directory:")
             print("\n".join(nodir_files) + "\n")
