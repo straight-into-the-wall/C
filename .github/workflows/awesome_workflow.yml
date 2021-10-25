@@ -113,6 +113,7 @@ jobs:
           with open("git_diff.txt") as in_file:
             modified_files = sorted(in_file.read().splitlines())
           print("{} files were modified.".format(len(modified_files)))
+          print(modified_files)
 
           cpp_exts = tuple(".c .c++ .cc .cpp .cu .cuh .cxx .h .h++ .hh .hpp .hxx".split())
           cpp_files = [file for file in modified_files if file.lower().endswith(cpp_exts)]
@@ -137,11 +138,18 @@ jobs:
             print("\n".join(space_files) + "\n")
 
           nodir_files = [file for file in cpp_files if file.count(os.sep) != 1]
-          if nodir_files:
+          nodir_file_bad_files = len(nodir_files) - 1
+            print("\n".join(nodir_files) + "\n")
+            print(cpp_files)
+            print("\n".join(cpp_files) + "\n")
+          if nodir_file_bad_files:            
             print(f"{len(nodir_files)} files are not in one and only one directory:")
             print("\n".join(nodir_files) + "\n")
+            print(cpp_files)
+            print("\n".join(cpp_files) + "\n")
+            
 
-          bad_files = len(upper_files + space_files + nodir_files)
+          bad_files = len(upper_files + space_files + nodir_file_bad_files)
           if bad_files:
             sys.exit(bad_files)
       - name: Commit and push changes
